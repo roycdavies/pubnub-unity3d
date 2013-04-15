@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PubnubTest.cs">
+    <Files>
+      <File FileName="Assets/Pubnub.cs" Line="216" Column="22" />
+      <File FileName="Assets/PubnubTest.cs" Line="10" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/roycdavies/Documents/Projects/Unity3D/PubNubUnity3D/Assets/Pubnub.cs" line="32" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
